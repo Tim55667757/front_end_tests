@@ -1,0 +1,223 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.15|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+npGoogleUpdate3.dll|$
+D:\Users\gilmullin\AppData\Local\Google\Update\1.3.21.111\npGoogleUpdate3.dll|$
+1.3.21.111|$
+1332304139666|1|0|$
+Google Update|$
+Google Update|$
+2
+0|application/x-vnd.google.update3webcontrol.3|||$
+1|application/x-vnd.google.oneclickctrl.9|||$
+npjp2.dll|$
+C:\Program Files (x86)\Java\jre6\bin\plugin2\npjp2.dll|$
+6.0.310.5|$
+1329721950969|1|1|$
+Next Generation Java Plug-in 1.6.0_31 for Mozilla browsers|$
+Java(TM) Platform SE 6 U31|$
+34
+0|application/x-java-applet|Java Applet||$
+1|application/x-java-bean|JavaBeans||$
+2|application/x-java-vm|||$
+3|application/x-java-applet;version=1.1.1|||$
+4|application/x-java-bean;version=1.1.1|||$
+5|application/x-java-applet;version=1.1|||$
+6|application/x-java-bean;version=1.1|||$
+7|application/x-java-applet;version=1.2|||$
+8|application/x-java-bean;version=1.2|||$
+9|application/x-java-applet;version=1.1.3|||$
+10|application/x-java-bean;version=1.1.3|||$
+11|application/x-java-applet;version=1.1.2|||$
+12|application/x-java-bean;version=1.1.2|||$
+13|application/x-java-applet;version=1.3|||$
+14|application/x-java-bean;version=1.3|||$
+15|application/x-java-applet;version=1.2.2|||$
+16|application/x-java-bean;version=1.2.2|||$
+17|application/x-java-applet;version=1.2.1|||$
+18|application/x-java-bean;version=1.2.1|||$
+19|application/x-java-applet;version=1.3.1|||$
+20|application/x-java-bean;version=1.3.1|||$
+21|application/x-java-applet;version=1.4|||$
+22|application/x-java-bean;version=1.4|||$
+23|application/x-java-applet;version=1.4.1|||$
+24|application/x-java-bean;version=1.4.1|||$
+25|application/x-java-applet;version=1.4.2|||$
+26|application/x-java-bean;version=1.4.2|||$
+27|application/x-java-applet;version=1.5|||$
+28|application/x-java-bean;version=1.5|||$
+29|application/x-java-applet;version=1.6|||$
+30|application/x-java-bean;version=1.6|||$
+31|application/x-java-applet;jpi-version=1.6.0_31|||$
+32|application/x-java-bean;jpi-version=1.6.0_31|||$
+33|application/x-java-vm-npruntime|||$
+npdeployJava1.dll|$
+C:\Program Files (x86)\Mozilla Firefox\plugins\npdeployJava1.dll|$
+6.0.310.5|$
+1329721950947|1|1|$
+NPRuntime Script Plug-in Library for Java(TM) Deploy|$
+Java Deployment Toolkit 6.0.310.5|$
+1
+0|application/java-deployment-toolkit|||$
+nppdf32.dll|$
+C:\Program Files (x86)\Mozilla Firefox\plugins\nppdf32.dll|$
+9.5.0.270|$
+1325564522000|1|0|$
+Adobe PDF Plug-In For Firefox and Netscape "9.5.0"|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+NPSWF32.dll|$
+C:\Windows\SysWOW64\Macromed\Flash\NPSWF32.dll|$
+11.1.102.55|$
+1321953263973|1|0|$
+Shockwave Flash 11.1 r102|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+npvlc.dll|$
+C:\Program Files (x86)\VideoLAN\VLC\npvlc.dll|$
+1.1.11.0|$
+1310646070000|1|0|$
+Version 1.1.11, copyright 1996-2011 The VideoLAN Team<br><a href="http://www.videolan.org/">http://www.videolan.org/</a>|$
+VLC Multimedia Plug-in|$
+40
+0|audio/mpeg|MPEG audio|mp2,mp3,mpga,mpega|$
+1|audio/x-mpeg|MPEG audio|mp2,mp3,mpga,mpega|$
+2|video/mpeg|MPEG video|mpg,mpeg,mpe|$
+3|video/x-mpeg|MPEG video|mpg,mpeg,mpe|$
+4|video/mpeg-system|MPEG video|mpg,mpeg,vob|$
+5|video/x-mpeg-system|MPEG video|mpg,mpeg,vob|$
+6|video/mp4|MPEG-4 video|mp4,mpg4|$
+7|audio/mp4|MPEG-4 audio|mp4,mpg4|$
+8|application/mpeg4-iod|MPEG-4 video|mp4,mpg4|$
+9|application/mpeg4-muxcodetable|MPEG-4 video|mp4,mpg4|$
+10|video/x-m4v|MPEG-4 video|m4v|$
+11|video/x-msvideo|AVI video|avi|$
+12|video/quicktime|QuickTime video|mov,qt|$
+13|application/x-ogg|Ogg stream|ogg|$
+14|application/ogg|Ogg stream|ogg|$
+15|video/ogg|Ogg video|ogv|$
+16|application/x-vlc-plugin|VLC plug-in|vlc|$
+17|video/x-ms-asf-plugin|Windows Media video|asf,asx|$
+18|video/x-ms-asf|Windows Media video|asf,asx|$
+19|application/x-mplayer2|Windows Media plug-in||$
+20|video/x-ms-wmv|Windows Media video|wmv|$
+21|application/x-google-vlc-plugin|Google VLC plug-in||$
+22|audio/wav|WAV audio|wav|$
+23|audio/x-wav|WAV audio|wav|$
+24|audio/3gpp|3GPP audio|3gp,3gpp|$
+25|video/3gpp|3GPP video|3gp,3gpp|$
+26|audio/3gpp2|3GPP2 audio|3g2,3gpp2|$
+27|video/3gpp2|3GPP2 video|3g2,3gpp2|$
+28|video/divx|DivX video|divx|$
+29|video/flv|FLV video|flv|$
+30|video/x-flv|FLV video|flv|$
+31|video/x-matroska|Matroska video|mkv|$
+32|audio/x-matroska|Matroska audio|mka|$
+33|application/xspf+xml|Playlist xspf|xspf|$
+34|audio/x-m4a|MPEG-4 audio|m4a|$
+35|audio/x-mpegurl|Playlist M3U|m3u|$
+36|audio/x-ms-wma|Windows Media Audio|wma|$
+37|video/webm|WebM video|webm|$
+38|audio/webm|WebM audio|webm|$
+39|audio/amr|AMR audio|amr|$
+npFoxitReaderPlugin.dll|$
+C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\npFoxitReaderPlugin.dll|$
+2.0.0.1102|$
+1302260321270|1|0|$
+Foxit Reader Plug-In For Firefox and Netscape|$
+Foxit Reader Plugin for Mozilla|$
+1
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+npnv3dvstreaming.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dvstreaming.dll|$
+7.17.12.6314|$
+1292179342000|1|0|$
+NVIDIA 3D Vision Streaming plugin for Mozilla browsers|$
+NVIDIA 3D VISION|$
+1
+0|application/mozilla-3DV-streaming-plugin|npnv3dvstreaming|rts|$
+npnv3dv.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dv.dll|$
+7.17.12.6314|$
+1292179340000|1|0|$
+NVIDIA 3D Vision plugin for Mozilla browsers|$
+NVIDIA 3D Vision|$
+3
+0|image/jps|JPEG-based stereo image|jps|$
+1|image/pns|PNG-based stereo image|pns|$
+2|image/mpo|Multi-Picture Format image|mpo|$
+npwachk.dll|$
+C:\Program Files (x86)\Mozilla Firefox\plugins\npwachk.dll|$
+5.6.0.3091|$
+1291891626000|1|0|$
+Winamp Application Detector|$
+Winamp Application Detector|$
+1
+0|application/x-winampx-1.0.0.1|winamp||$
+NPSPWRAP.DLL|$
+C:\PROGRA~2\MICROS~1\Office14\NPSPWRAP.DLL|$
+14.0.4761.1000|$
+1269447758000|1|0|$
+The plug-in allows you to open and edit files using Microsoft Office applications|$
+Microsoft Office 2010|$
+1
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+NPAUTHZ.DLL|$
+C:\PROGRA~2\MICROS~1\Office14\NPAUTHZ.DLL|$
+14.0.4730.1010|$
+1263058938000|1|0|$
+Office Authorization plug-in for NPAPI browsers|$
+Microsoft Office 2010|$
+1
+0|application/x-msoffice14|14.0.4730.1010|*|$
+nppdf32.dll|$
+C:\Program Files (x86)\Adobe\Reader 9.0\Reader\browser\nppdf32.dll|$
+9.5.0.270|$
+1325564522000|1|13|$
+Adobe PDF Plug-In For Firefox and Netscape "9.5.0"|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+nppdf32.dll|$
+C:\Program Files (x86)\Adobe\Reader 9.0\Reader\AIR\nppdf32.dll|$
+9.5.0.270|$
+1325564522000|1|13|$
+Adobe PDF Plug-In For Firefox and Netscape "9.5.0"|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+npdeployJava1.dll|$
+C:\Program Files (x86)\Java\jre6\bin\plugin2\npdeployJava1.dll|$
+6.0.310.5|$
+1329721950947|1|13|$
+NPRuntime Script Plug-in Library for Java(TM) Deploy|$
+Java Deployment Toolkit 6.0.310.5|$
+1
+0|application/java-deployment-toolkit|||$
+
+[INVALID]
